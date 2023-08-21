@@ -1,0 +1,2 @@
+School Rozhok Farm Mylta Shelter 
+Correctness of prediction: 62%
